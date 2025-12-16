@@ -54,12 +54,7 @@ Girilen veriler analiz edilerek farklı grafikler yardımıyla görselleştirili
 pip install matplotlib
 ```
 
-2. Programı çalıştırın:
-
-```bash
-python study_tracker.py
-```
-
+2. Programı çalıştırın
 3. Gün, ders ve dakika bilgilerini girin.
 4. `0` seçeneği ile çıkış yaparak grafiklerin oluşmasını sağlayın.
 
