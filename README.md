@@ -76,9 +76,3 @@ Bu proje ile:
 
 Proje, **Python öğrenme sürecinde yapılan bir alıştırma ve mini analiz uygulamasıdır**.
 
----
-
-
----
-
-👩‍💻 Geliştirici: *Python öğrenme sürecinde hazırlanmıştır*
